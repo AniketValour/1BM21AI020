@@ -68,4 +68,5 @@ int main() {
 
   cout<<"Sorted array\n";
   display(arr, size);
+  
 }
